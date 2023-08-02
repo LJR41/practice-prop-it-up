@@ -10,3 +10,5 @@ const PersonCard = (props) => {
     );
 }
 export default PersonCard;
+
+// Pair Programming with Cohort.
